@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1717861780 source:c:\users\natan\desktop\jfc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1717861780 source:c:\users\natan\desktop\forca_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1718157761 source:c:\users\natan\desktop\jogo_da_forca\forca_em_c - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1718157761 source:c:\users\natan\desktop\jogo_da_forca\forca_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
